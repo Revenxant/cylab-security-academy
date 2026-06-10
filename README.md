@@ -1,1 +1,0 @@
-# cylab-security-academy
